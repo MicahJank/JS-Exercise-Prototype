@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "12"
+  - "22.23.4"
 # Older versions ommited for speed
   # - "10"
   # - "8"
